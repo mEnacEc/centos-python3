@@ -1,5 +1,5 @@
 # centos-python3
-傻子都会之    centos一键安装python3
+傻子都会之    centos一键安装python3\n
 chmod +x ./installpy3.sh
 ./installpy3.sh
 运行完成后检查：
